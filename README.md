@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gouranga Dinda</h1>
 <h3 align="center">Currently I'm doing my M.Tech in Quantum Technology from IISc Bangalore</h3>
 
-<img align="right" alt="coding" width="400" src="https://scitechdaily.com/images/Superconducting-Quantum-Processor-Circuits-scaled.jpg">
+<img align="right" alt="coding" width="400" src="https://scitechdaily.com/images/Quantum-Systems-Accelerator-DOE.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgouranga&label=Profile%20views&color=0e75b6&style=flat" alt="dgouranga" /> </p>
 
