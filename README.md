@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gouranga Dinda</h1>
 <h3 align="center">CurrentlyCurrently I'm doing my M.Tech in Quantum Technology from IISc Bangalore</h3>
 
-<img align=“right” alt=“QuantumComputer” width=“400” src=“QUant.gif”
-
+< img align=“right” alt=“coding” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FWhat-advances-have-been-made-in-the-field-of-quantum-computing-research-related-to-nanotechnology&psig=AOvVaw00e4W1ZvQa1B3XBo74JwX7&ust=1724082374442000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCxxMjx_ocDFQAAAAAdAAAAABB4”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgouranga&label=Profile%20views&color=0e75b6&style=flat" alt="dgouranga" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/dgouranga](https://github.com/dgouranga)
@@ -28,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgouranga&show_icons=true&locale=en" alt="dgouranga" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dgouranga&" alt="dgouranga" /></p>
+
