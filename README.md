@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gouranga Dinda</h1>
-<h3 align="center">CurrentlyCurrently I'm doing my M.Tech in Quantum Technology from IISc Bangalore</h3>
+<h3 align="center">Currently I'm doing my M.Tech in Quantum Technology from IISc Bangalore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgouranga&label=Profile%20views&color=0e75b6&style=flat" alt="dgouranga" /> </p>
 
